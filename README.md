@@ -77,3 +77,17 @@ HTML, CSS, and JavaScript that supports real-time conversion between
 
 1. **Clone the repository**
 ```bash
+   git clone https://github.com/YourUsername/currency-converter.git
+```
+
+2. **Go into the project folder**
+```bash
+   cd currency-converter
+```
+
+3. **Open in browser**
+```bash
+   Open index.html directly in your browser
+```
+   > No installation or server needed! Just open and use. ✅
+
