@@ -1,4 +1,4 @@
-# 💱 Currency Converter Website
+#  Converter Website
 
 A clean and responsive currency converter web application built with 
 HTML, CSS, and JavaScript that supports real-time conversion between 
@@ -6,24 +6,24 @@ HTML, CSS, and JavaScript that supports real-time conversion between
 
 ---
 
-## 🌍 Live Demo
+## Live Demo
 
 > _Add your live link here (Netlify / GitHub Pages / Vercel)_
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔄 Convert between **31 major world currencies**
-- 🏳️ Displays **country flags** for each selected currency
-- ⚡ **Real-time exchange rates** fetched via Currency API
-- 🔃 **Swap button** to instantly reverse conversion
-- 📱 Fully **responsive design** for mobile and desktop
-- 🎨 Clean and minimal **UI/UX**
+-  Convert between **31 major world currencies**
+-  Displays **country flags** for each selected currency
+-  **Real-time exchange rates** fetched via Currency API
+-  **Swap button** to instantly reverse conversion
+-  Fully **responsive design** for mobile and desktop
+-  Clean and minimal **UI/UX**
 
 ---
 
-## 🌐 Supported Currencies
+##  Supported Currencies
 
 | Code | Currency | Country |
 |------|----------|---------|
@@ -61,7 +61,7 @@ HTML, CSS, and JavaScript that supports real-time conversion between
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Usage |
 |---|---|
@@ -73,21 +73,4 @@ HTML, CSS, and JavaScript that supports real-time conversion between
 
 ---
 
-## 🚀 How to Run Locally
-
-1. **Clone the repository**
-```bash
-   git clone https://github.com/YourUsername/currency-converter.git
-```
-
-2. **Go into the project folder**
-```bash
-   cd currency-converter
-```
-
-3. **Open in browser**
-```bash
-   Open index.html directly in your browser
-```
-   > No installation or server needed! Just open and use. ✅
 
